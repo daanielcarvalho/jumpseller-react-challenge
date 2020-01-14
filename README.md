@@ -24,11 +24,11 @@ Based on [this API](https://jsonplaceholder.typicode.com/) you should:
 
 3. Show detail from a post
 - Show the detail from a clickable post and present {title, body} and also create a section linking the title and the body (the first 100 characters) of the the 3 last posts created.
-- endpoint: https://jsonplaceholder.typicode.com/posts/<post-id>
+- endpoint: https://jsonplaceholder.typicode.com/posts/`post-id`
 
 4. Show comments on detail component
 - Show the last 10 comments from the specific post.
-- endpoint: https://jsonplaceholder.typicode.com/posts/<post-id>/comments
+- endpoint: https://jsonplaceholder.typicode.com/posts/`post-id`/comments
 
 5. Create a simple test
 - Create a simple test of one of your components using a library that you prefer. [Recommended Tools](https://reactjs.org/docs/testing.html)
