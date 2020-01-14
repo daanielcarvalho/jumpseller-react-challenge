@@ -61,12 +61,12 @@ To ensure the challenge will run in a consistent and controlled environment we c
 
 
 ### GitHub, GitLab
-Send us a link with a public repository where we can find the project, so we only need to pull and run `yarn install` in in our environment host machine through `http://localhost:3000`
+Send us a link with a public repository where we can find the project, so we only need to pull and run `yarn install`, `yarn start` in in our environment host machine through `http://localhost:3000`
 
 ### Docker
 Running `docker-compose up web` on the project's root must start a web server on port `8080` and be reachable on the host machine through `http://localhost:8080`. To get started with docker / docker compose, we recommend [this page](https://docs.docker.com/compose/gettingstarted/). 
 **note: the code should be available on a public repository**
 
 ### Heroku
-Deploy the project to heroku and provide us the running project on https://<your-project-name>-challenge-jumpseller.herokuapp.com` [this page](https://devcenter.heroku.com/start)
+Deploy the project to heroku and provide us the running project on https://<your-project-name>-challenge-jumpseller.herokuapp.com` . To get started with heroku we recommend[this page](https://devcenter.heroku.com/start)
 **note: the code should be available on a public repository**
