@@ -13,15 +13,15 @@ The purpose of this challenge is to let us know a little about your thinking and
 Based on [this API](https://jsonplaceholder.typicode.com/) you should:
 
 1. Build a simple layout to fulfill the requirements below.
-_We recommend you to use Bootstrap 4._
+- _We recommend you to use Bootstrap 4._
 
 2. Search field and a list with the results
 - Endpoint: https://jsonplaceholder.typicode.com/posts
-_Think about empty state, loading state and post not found_
+- _Think about empty state, loading state and post not found_
 
 3. Post details page
 - Endpoint: https://jsonplaceholder.typicode.com/posts/1
-_Think about loading state and post not found_
+- _Think about loading state and post not found_
 
 4. Show the last 10 comments on the post details page
 - Endpoint: https://jsonplaceholder.typicode.com/posts/1/comments
