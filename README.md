@@ -34,7 +34,6 @@ Based on [this API](https://jsonplaceholder.typicode.com/) you should:
 - Don't overly nest your code; try to stay into smaller logical pieces.
 - When creating components try to break them into separate items. Example: Header, body and footer in different self-sufficient styled elements.
 - Unit testing will be greatly valued.
-- The git history will be evaluated.
 - Your code will be evaluated by: semantics, structure, legibility, size, elegance (among other factors).
 
 ### Submission
