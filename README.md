@@ -2,7 +2,7 @@
 
 ## Challenge Overview
 
-This is a pretty simple test, in which you should be able to write a React app, using the provided API .
+This is a simple test, in which you should be able to write a React app, using the provided API .
 
 You can use any boilerplate/approach you prefer, but try to keep it simple. We encourage you to use your favourite tools and packages to build a solid React application.
 
