@@ -8,7 +8,7 @@ You can use any boilerplate/approach you prefer, but try to keep it simple. We e
 
 The purpose of this challenge is to let us know a little about your thinking and the way you approach problems. It is up to you how much effort you put into it and exactly what you deliver.
 
-** The estimated average time for this test is 3 to 4 hours. **
+**The estimated average time for this test is 3 to 4 hours.**
 
 ## Challenge Requirements
 
